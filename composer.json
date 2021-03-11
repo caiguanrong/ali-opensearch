@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "files": [
-            "./src/Autoloader/Autoloader.php"
+            "src/Autoloader/Autoloader.php"
         ]
     }
 }
