@@ -1,0 +1,17 @@
+{
+    "name": "pizriw\/ali-opensearch",
+    "description": "ali-opensearch for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pizriw",
+            "email": "caicai105230@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pizriw\\AliOpensearch\\": "src"
+        }
+    }
+}
