@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require pizriw/ali-opensearch -vvv
+$ composer require pizriw/ali-opensearch
 ```
 
 ## Usage
