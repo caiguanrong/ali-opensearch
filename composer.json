@@ -1,6 +1,6 @@
 {
     "name": "pizriw/ali-opensearch",
-    "description": "ali-openSearch for php",
+    "description": "ali-openSearch-v3.3.0 for php",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "files": [
-            "src/Autoloader/Autoloader.php"
+            "./src/OpenSearch/Autoloader/Autoloader.php"
         ]
     }
 }
